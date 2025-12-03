@@ -1,0 +1,21 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling
+.mypy_cache/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Outputs
+data/output/
+
+# 
+.idea
