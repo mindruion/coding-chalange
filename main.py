@@ -504,9 +504,5 @@ def preview(
     preview_dataset(data_dir, normalized, limit)
 
 
-def main() -> None:
-    app()
-
-
 if __name__ == "__main__":
-    main()
+    app()
